@@ -13,3 +13,4 @@ outputs/docx_qa/
 *.key
 *.p12
 *.pfx
+~$*
