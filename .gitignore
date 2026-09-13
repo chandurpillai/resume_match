@@ -1,0 +1,15 @@
+.venv/
+.env
+.streamlit/secrets.toml
+data/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+.env.*
+!.env.example
+outputs/docx_qa/
+*.pem
+*.key
+*.p12
+*.pfx
